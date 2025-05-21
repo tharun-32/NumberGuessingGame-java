@@ -15,6 +15,7 @@ the program gives you hits like 'guess higher or guess lower' depends upon the g
 #Prerequisites
 
 -Java Development Kit (JDK) 21.
+-Neovim as code editor
 -A terminal to run the program.
 
 #Project Structure
